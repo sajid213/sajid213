@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sajid213
+- 👀 I’m interested in listening and creating music, developing new products, and experiencing new things everyday.
+- 🌱 I’m currently learning DevOps
+- 📫 How to reach me: me@sajid.io
